@@ -1,0 +1,18 @@
+body {
+	
+}
+
+a {
+ color: navy;
+ text-decoration: none;
+	
+}
+a:hover {
+	color: red;
+	text-decoration: overline;
+}
+
+img {
+	
+}
+
